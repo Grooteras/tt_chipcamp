@@ -3,7 +3,7 @@ project:
   title:        "chips halløj"      # Project title
   author:       "Torsten Chagourin--Chao"      # Your name
   discord:      "grooteras"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "urhh idk what im doing"      # One line description of what your project does
+  description:  "urhh idk what im doing, teach says its 'pipeline cleaner'"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
