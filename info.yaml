@@ -33,24 +33,24 @@ pinout:
   ui[7]: "h"
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
-  uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
-  uo[7]: ""
+  uo[0]: "A"
+  uo[1]: "B"
+  uo[2]: "C"
+  uo[3]: "D"
+  uo[4]: "E"
+  uo[5]: "F"
+  uo[6]: "G"
+  uo[7]: "H"
 
   # Bidirectional pins
-  uio[0]: ""
-  uio[1]: ""
-  uio[2]: ""
-  uio[3]: ""
-  uio[4]: ""
-  uio[5]: ""
-  uio[6]: ""
-  uio[7]: ""
+  uio[0]: "a1"
+  uio[1]: "b1"
+  uio[2]: "c1"
+  uio[3]: "d1"
+  uio[4]: "e1"
+  uio[5]: "f1"
+  uio[6]: "g1"
+  uio[7]: "h1"
 
 # Do not change!
 yaml_version: 6
